@@ -4,7 +4,7 @@
 ## Overview
 
 Perhaps less academic than the 
-[Deutsch–Jozsa algorithm](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm), 
+[Deutschâ€“Jozsa algorithm](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm), 
 AJAX is used to send a POST request to the [httpbin](https://httpbin.org/)
  testing service that echoes back.  It's alive.
 
@@ -17,6 +17,5 @@ AJAX is used to send a POST request to the [httpbin](https://httpbin.org/)
 <p align="center"><img width=100% src="EchoExample.PNG"></p>
 
 ## Improvements
-- Map esoteric weather information with colloquial names and descriptions
-- Feedback for invalid inputs
+- Add magical unicorn in background to make things more interesting
 
