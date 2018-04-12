@@ -14,7 +14,7 @@ AJAX is used to send a POST request to the [httpbin](https://httpbin.org/)
 
 ## Example
 
-<p align="center"><img width=100% src="OpenWeatherMapExample.PNG"></p>
+<p align="center"><img width=100% src="EchoExample.PNG"></p>
 
 ## Improvements
 - Map esoteric weather information with colloquial names and descriptions
